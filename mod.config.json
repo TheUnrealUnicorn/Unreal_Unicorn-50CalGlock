@@ -1,0 +1,25 @@
+{
+  "name": "50CalGlock",
+  "author": "Unreal_Unicorn",
+  "version": "1.0.0",
+  "license": "MIT",
+  "src":{
+    "src/modloader.js": "CacheModLoad"
+  },
+  "folders": [
+  "files/items",
+	"files/assort/ragfair",
+	"files/locales/en",
+	"files/templates"
+  ],
+  "filenames": [
+      "G401m33",
+	  "G401m22",
+      "G401m15",
+      "G401m7",
+	  "Glock41",
+	  "Glock40"
+
+  ],
+  	"required": []
+}
